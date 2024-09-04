@@ -7,7 +7,7 @@ import (
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/aws/aws-sdk-go-v2/service/ec2"
 	"github.com/aws/aws-sdk-go-v2/service/ec2/types"
-	ec2Client "github.com/onurcevik/deploy-service/src/cloud/aws"
+	ec2Client "github.com/onurcevik/deploy-utilities/src/cloud/aws"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

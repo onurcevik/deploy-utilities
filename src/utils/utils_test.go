@@ -1,7 +1,7 @@
 package utils_test
 
 import (
-	"github.com/onurcevik/deploy-service/src/utils"
+	"github.com/onurcevik/deploy-utilities/src/utils"
 	"os"
 	"os/exec"
 	"testing"

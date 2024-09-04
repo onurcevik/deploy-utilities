@@ -18,7 +18,7 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/onurcevik/deploy-service/src/docker"
+	"github.com/onurcevik/deploy-utilities/src/docker"
 )
 
 // MockDockerClient is a mock implementation of the Docker client

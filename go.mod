@@ -1,4 +1,4 @@
-module github.com/onurcevik/deploy-service
+module github.com/onurcevik/deploy-utilities
 
 go 1.22.2
 

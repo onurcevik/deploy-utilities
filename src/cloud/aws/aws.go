@@ -2,7 +2,7 @@ package aws
 
 import (
 	"context"
-	"github.com/onurcevik/deploy-service/common/config"
+	"github.com/onurcevik/deploy-utilities/common/config"
 	"log/slog"
 )
 
